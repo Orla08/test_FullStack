@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|c:\\users\\ryzen\\documents\\github\\testfullstack\\pruebafront\\backtask\\apitask\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|solutionrelative:apitask\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|c:\\users\\ryzen\\documents\\github\\testfullstack\\pruebafront\\backtask\\apitask\\dto\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|solutionrelative:apitask\\dto\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|c:\\users\\ryzen\\documents\\github\\testfullstack\\pruebafront\\backtask\\apitask\\data\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|solutionrelative:apitask\\data\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|c:\\users\\ryzen\\documents\\github\\testfullstack\\pruebafront\\backtask\\apitask\\dto\\taskeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|solutionrelative:apitask\\dto\\taskeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|c:\\users\\ryzen\\documents\\github\\testfullstack\\pruebafront\\backtask\\apitask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|solutionrelative:apitask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|c:\\users\\ryzen\\documents\\github\\testfullstack\\pruebafront\\backtask\\apitask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|solutionrelative:apitask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|c:\\users\\ryzen\\documents\\github\\testfullstack\\pruebafront\\backtask\\apitask\\dto\\taskeditstatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|solutionrelative:apitask\\dto\\taskeditstatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|c:\\users\\ryzen\\documents\\github\\testfullstack\\pruebafront\\backtask\\apitask\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3F929E-DE5B-46F9-A027-A2B94A93BFAE}|apiTask\\apiTask.csproj|solutionrelative:apitask\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Dto\\TaskCreateDto.cs",
+              "RelativeDocumentMoniker": "apiTask\\Dto\\TaskCreateDto.cs",
+              "ToolTip": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Dto\\TaskCreateDto.cs",
+              "RelativeToolTip": "apiTask\\Dto\\TaskCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:57:53.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskEditStateDto.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Dto\\TaskEditStateDto.cs",
+              "RelativeDocumentMoniker": "apiTask\\Dto\\TaskEditStateDto.cs",
+              "ToolTip": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Dto\\TaskEditStateDto.cs",
+              "RelativeToolTip": "apiTask\\Dto\\TaskEditStateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:03:02.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Dto\\TaskEditDto.cs",
+              "RelativeDocumentMoniker": "apiTask\\Dto\\TaskEditDto.cs",
+              "ToolTip": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Dto\\TaskEditDto.cs",
+              "RelativeToolTip": "apiTask\\Dto\\TaskEditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:59:05.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "apiTask\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "apiTask\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAUwHQAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:12:51.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Data\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "apiTask\\Data\\TaskEntity.cs",
+              "ToolTip": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Data\\TaskEntity.cs",
+              "RelativeToolTip": "apiTask\\Data\\TaskEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:09:48.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "apiTask\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "apiTask\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:46:54.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Program.cs",
+              "RelativeDocumentMoniker": "apiTask\\Program.cs",
+              "ToolTip": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\Program.cs",
+              "RelativeToolTip": "apiTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:44:41.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\appsettings.json",
+              "RelativeDocumentMoniker": "apiTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\RYZEN\\Documents\\GitHub\\testFullStack\\pruebaFront\\backTask\\apiTask\\appsettings.json",
+              "RelativeToolTip": "apiTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T18:43:07.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
