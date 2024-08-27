@@ -20,10 +20,10 @@ Se usaron los paquetes:
 - Microsoft.VisualStudio.Web.CodeGeneration.Design
 - Swashbuckle.AspNetCore
 
-##(BASE DE DATOS)
+## (BASE DE DATOS)
 crear base de datos (taskSql)
 Y se creo la tabla Tasks:
-```sql
+
 CREATE TABLE [dbo].[Tasks](
 	[id] [int] IDENTITY(1,1) NOT NULL,
 	[titulo] [nvarchar](20) NOT NULL,
@@ -34,14 +34,14 @@ CREATE TABLE [dbo].[Tasks](
 	[id] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
-GO```
+GO
 
 ## (BACK)
 se configuro cadena de conexión de la Base de datos en el **appSettings.json:**
-```json
+
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=taskSql;User Id=sa;Password=develop1008;TrustServerCertificate=True;"
-}```
+}
 
 - Cree un **entity **para el modelo de la task
 - Cree unos **Dtos** para poder manipular ciertos datos
@@ -73,7 +73,7 @@ Esta vista es muy amigable para cualquier usuario ya que:
 Estas tareas las muestro de dos formas una es a traves una lista de cards y la otra forma es a traves de una tabla, la opcion que desee
 el usuario la puede escoger mediante unos iconos en la parte superior.
 
-Hay un filtro de:** (Todas, Completas, Incompletas)**.
+Hay un filtro de: **(Todas, Completas, Incompletas)**.
 
 Se realizaron 4 pruebas con **jasmine y karma** al componente que lista las tareas **list-to-do-component**
 
