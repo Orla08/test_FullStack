@@ -9,7 +9,7 @@ Crear tabla employees:
 - asignar indetity y primary key
 script de base de datos: 
 
-```sql
+
 CREATE TABLE [dbo].[Employees](
 	[EmployeeId] [int] IDENTITY(1,1) NOT NULL,
 	[FirstName] [nvarchar](50) NOT NULL,
@@ -22,11 +22,11 @@ CREATE TABLE [dbo].[Employees](
 	[EmployeeId] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
-GO```
+GO
 
-Se creo un** procedimiento almacenado** para obtener los empleados a partir de una fecha especifica:
+Se creo un **procedimiento almacenado** para obtener los empleados a partir de una fecha especifica:
 
-```sql
+
 CREATE PROCEDURE sp_obtenerEmpleadoPorFecha 
 	@fechaContrato DATE 
 AS
@@ -35,17 +35,17 @@ BEGIN
 	From Employees
 	Where HireDate >= @fechaContrato 
 	Order By HireDate
-END```
+END
 
 
 VISUAL STUDIO
 se intalo **visual studio 2022**
 se creo **proyecto web api**
 se configuro cadena de conexión de la BD en el appSettings:
-```json
+
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=testSql;User Id=sa;Password=develop1008;TrustServerCertificate=True;"
-},```
+}
 
 Se creo **DbContext**
 se creo una clase de entidad (**employeEntity** 'modelo'), se agregaron dataAnotaciones **([Table] , [Key])** al modelo.
