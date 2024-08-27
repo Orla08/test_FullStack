@@ -1,0 +1,20 @@
+.titulo {
+    font-size: large;
+    font-weight: 800;
+    color: rgb(33, 113, 56);
+    text-decoration: line-through;
+    text-shadow: 1px 1px 0px white,
+        -1px 1px 0px white,
+        1px -1px 0px white,
+        -1px -1px 0px white;
+}
+
+.titulo2 {
+    font-size: large;
+    font-weight: 500;
+    color: #2596be;
+    text-shadow: 1px 1px 0px white,
+        -1px 1px 0px white,
+        1px -1px 0px white,
+        -1px -1px 0px white;
+}

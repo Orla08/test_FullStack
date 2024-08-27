@@ -1,0 +1,20 @@
+<div class="container">
+    <div class="row">
+        <div class="col-12 p-4">
+            <form [formGroup]="form" action="" (ngSubmit)="this.submit()">
+                <div class="mb-3">
+                    <label for="" class="form-label fw-semibold">Titulo</label>
+                    <input type="text" class="form-control" formControlName="titulo" required maxlength="20">
+                </div>
+                <div class="mb-3">
+                    <label for="" class="form-label fw-semibold">Descripción</label>
+                    <input type="text" class="form-control" id="" formControlName="descripcion" required maxlength="80">
+                </div>
+                <div class="my-2 d-flex flex-row justify-content-between">
+                    <button class="btn btn-secondary" (click)="cancel()" type="button">Cancelar</button>
+                    <button class="btn btn-success" type="submit">Actualizar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
