@@ -75,3 +75,5 @@ el usuario la puede escoger mediante unos iconos en la parte superior.
 
 Hay un filtro de:** (Todas, Completas, Incompletas)**.
 
+Se realizaron 4 pruebas con **jasmine y karma** al componente que lista las tareas **list-to-do-component**
+
